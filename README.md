@@ -1,4 +1,6 @@
 # Piscine-ecole-42
-Mes cours et projet demander a l'ecole 42
+Cours et projets de l'école 42
+Immersion totale : 1 mois intensif (septembre 2021)
 
-Fait en septembre 2021, j'ai fait 1mois 7/7j 18h par jours
+Rythme : 7 jours/7, 15h à 18h par jour
+Objectif : Apprentissage accéléré et projets pratiques
